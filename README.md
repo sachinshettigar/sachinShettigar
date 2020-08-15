@@ -1,4 +1,7 @@
 ### Hi there 👋
+Web :computer: & Mobile :iphone: enthusiast
+
+I’m currently working with react & react native
 
 <!--
 **sachinshettigar/sachinShettigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
